@@ -13,7 +13,7 @@ npm start
 ./build/index.html
 ```
 
-#build:
+# build:
 ```bash
 npm run build
 ```
